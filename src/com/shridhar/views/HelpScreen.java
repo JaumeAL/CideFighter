@@ -33,6 +33,7 @@ public class HelpScreen extends JFrame {
 
 	
 	public HelpScreen() {
+		
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 501, 447);
 		contentPane = new JPanel();
